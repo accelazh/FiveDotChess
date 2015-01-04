@@ -1,0 +1,1 @@
+A simple five-dot-chess game built in my school time. Built in my school time.
